@@ -12,7 +12,7 @@ services:
     ports:
       - 8081:8080
     environment:
-      ADMINER_DESIGN: 'pepa-linha-dark'
+      ADMINER_DESIGN: 'pepa-linha'
   # pgadmin:
   #     image: dpage/pgadmin4:4.21
   #     environment:
